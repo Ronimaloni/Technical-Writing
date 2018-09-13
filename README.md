@@ -1,3 +1,10 @@
+----
+Technical Writing Strategies
+9/13/2018
+Technical writing
+In-class project
+----
+
 # Technical-Writing
 little document for some project for work flow in college
 

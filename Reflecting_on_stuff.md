@@ -15,3 +15,4 @@ Writing concisely in your document so you can be understood in your field.
 #Final Assignment
 
 Something that we can pass. A white paper might be interesting if you would be able to explain what it is. Something that is about 2-3 pages long. Maybe something like a news article or a product description. Maybe making a website to sell something. Continuing with the blog would be super cool. Especially since its is already created and we know the formatting, we can focus more on writing. 
+
